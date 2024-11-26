@@ -1,7 +1,3 @@
----
-title: 'Go Bassic'
----
-
 # Go Basic
 
 #### Day 1
